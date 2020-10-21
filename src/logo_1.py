@@ -1,4 +1,4 @@
-def logo_1():
+def logo():
     RED = '\033[31;1m'
     YELLOW = '\033[33;1m'
     BLUE = '\033[34;1m'
@@ -16,4 +16,4 @@ def logo_1():
     print(BLUE + "✔︎ Github: https://github.com/837477\n" + END)
 
 if __name__ == "__main__":
-    logo_1()
+    logo()
