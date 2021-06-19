@@ -33,12 +33,6 @@
 ✔︎ Github: https://github.com/837477
 ```
 
-개인 서버를 가지고 있다면,<br>
-스마트 홈 구축을 위해서 Flask / FastAPI 등을 통하여 간단하게 WOL API를 구현할 수 있습니다.<br>
-구현된 API는 WebCoRe 등과 같은 구글 어시스턴트가 지원하는 서비스를 통하여 호출할 수 있습니다.
-
-그 외 RTC(Real Time Clock) 처럼 시간을 설정해서 PC를 제어할 수 있겠네요. (본인이 원하는대로 커스텀 해보세요 !)
-
 
 
 <br>
@@ -46,12 +40,12 @@
 ## Directories
 
 ```
-MagicPacket_Transmitter
+Shell_logo
 └── src
     └── logo_1.py
 ```
 
-**logo_1.py**: 로고 출력 소스가 들어있습니다..<br>
+**logo_1.py**: 로고 출력 소스가 들어있습니다.<br>
 
 
 
